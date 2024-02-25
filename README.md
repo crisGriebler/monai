@@ -1,4 +1,4 @@
-![logo](https://github.com/crisGriebler/monai/segmentis.png)
+![logo](https://github.com/crisGriebler/monai/Segmentis.png)
 
 <h1 align="center">Hello 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A Physicist working in radioprotection and Dosimetry Research </h3>
