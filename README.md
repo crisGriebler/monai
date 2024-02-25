@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently working on the **Nuclear Medicine Group** of <a href="https://ird.com.br/" class="nav-link">**Radioprotection and Dosimetry Institute**</a>
 
-- 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
-
-- 💬 Ask me about **Nuclear Medicine, Artificial Intelligence and Physics**
+- 👯 I’m looking to collaborate on **Nuclear Medicine and Artificial Intelligence Projects**
 
 - 📫 Here is the link to find my trained model during my work: <a href="https://drive.google.com/drive/folders/19VN7Co9bknlkFM3a0SVX0ki77Ia6_qWw?usp=drive_link" class="nav-link">**DeepEdit Model**</a>
 
