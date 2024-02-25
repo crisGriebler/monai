@@ -3,16 +3,15 @@
 <h1 align="center">Hello 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A Physicist working in radioprotection and Dosimetry Research </h3>
 
-- 🔭 This repository is about **Deep Learning-Based Jaszczak ACR Phantom Segmentation*
-##
+- 🔭 This repository is about **Deep Learning-Based Jaszczak ACR Phantom Segmentation**
 
-- 🌱 I’m currently learning **Nuclear Medicine Group** of <a href="https://ird.com.br/" class="nav-link">**Radioprotection and Dosimetry Institute**</a>
+- 🌱 I’m currently working on the **Nuclear Medicine Group** of <a href="https://ird.com.br/" class="nav-link">**Radioprotection and Dosimetry Institute**</a>
 
 - 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
 
 - 💬 Ask me about **Nuclear Medicine, Artificial Intelligence and Physics**
 
-- 📫 How to find the trained model during my research:of <a href="https://drive.google.com/drive/folders/19VN7Co9bknlkFM3a0SVX0ki77Ia6_qWw?usp=drive_link" class="nav-link">**DeepEdit Model**</a>
+- 📫 Here is the link to find my trained model during my work: <a href="https://drive.google.com/drive/folders/19VN7Co9bknlkFM3a0SVX0ki77Ia6_qWw?usp=drive_link" class="nav-link">**DeepEdit Model**</a>
 
 - 📄 Get know about my experiences <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV2023.pdf" class="nav-link">**Resume**</a>
 
