@@ -1,7 +1,7 @@
-![logo](https://github.com/crisGriebler/monai/Segmentis.png)
+![logo](https://github.com/crisGriebler/monai/blob/main/Segmentis.png)
 
 <h1 align="center">Hello 👋, I'm Cristian Griebler</h1>
-<h3 align="center">A Physicist working in radioprotection and Dosimetry Research </h3>
+<h3 align="center">A Physicist working in Radioprotection and Dosimetry Research </h3>
 
 - 🔭 This repository is about **Deep Learning-Based Jaszczak ACR Phantom Segmentation**
 
